@@ -1,3 +1,10 @@
+This project is a simple app to track daily expenses it's still on development and feedback and suggestions are appreciated
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
